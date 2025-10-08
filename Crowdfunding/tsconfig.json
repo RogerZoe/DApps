@@ -19,7 +19,7 @@
       }
     ],
     "paths": {
-      "@/*": ["DApps/Crowdfunding/src/*"],
+      "@/*": ["./src/*"],
       "@public/*": ["./public/*"]
     }
   },
