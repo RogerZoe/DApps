@@ -35,9 +35,19 @@ I'm actively **practicing, learning, and building** various decentralized applic
 - **Tech**: Thirdweb, Next.js, Tailwind CSS, Smart Contracts
 - **Features**: Tiered funding, campaign management, real-time tracking
 - **Purpose**: Learning smart contract integration and decentralized funding mechanisms
+  
+----------
 
-
-
+### 💰 **Split Payment DApp** - *[View Project](Split-Payment/)*
+**🚀 Status: Live & Functional** | **🌐 Live Demo: [splitpayment-one.vercel.app](https://splitpayment-one.vercel.app/)**
+- **Tech**: React, Web3.js, Solidity, Glassmorphism UI
+- **Features**: 
+  - ✨ Stunning glassmorphism design with smooth animations
+  - 🔗 Seamless MetaMask wallet integration
+  - 💸 Create and split expenses equally among friends
+  - 👥 Real-time payment tracking with visual status
+  - 📱 Fully responsive design for all devices
+- **Purpose**: Mastering frontend-blockchain integration and creating beautiful, functional dApps
 
 
 ## 🛠️ **My Learning Path**
