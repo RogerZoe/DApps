@@ -1,13 +1,11 @@
 "use client";
-
-import Image from "next/image";
 import { ConnectButton, useReadContract } from "thirdweb/react";
-import thirdwebIcon from "@public/thirdweb.svg";
 import { client } from "./client";
 import { getContract } from "thirdweb";
 import { sepolia } from "thirdweb/chains";
 import { FACTORY_ADDRESS } from "./constant/contracts";
 import { CampaignCard } from "../Components/Campaign";
+export const dynamic = "force-dynamic";
 
 export default function Home() {
   const contract = getContract({
